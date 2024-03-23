@@ -1,2 +1,3 @@
 # new.md
-info
+print("name")
+print("rolno")
