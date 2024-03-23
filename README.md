@@ -1,4 +1,4 @@
 # new.md
-print("name")
-scanf("%d",&name)
-print("rolno")
+print("name");
+
+print("rolno");
